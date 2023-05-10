@@ -1,0 +1,46 @@
+    body {
+    text-align: center;
+    
+    }
+
+    #title {
+
+        padding-top: 20px;
+    }
+
+    #Game {
+        padding-top: 10px;
+    }
+
+    #dealer-cards img {
+        height: 175px;
+        width: 125px;
+        margin: 1px;
+    
+    }
+
+    #your-cards img {
+        height: 175px;
+        width: 125px;
+        margin: 1px;
+
+    }
+
+    #hit {
+        width: 150px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    #stay {
+        width: 150px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    #playAgain {
+        width: 150px;
+        height: 50px;
+        font-size: 20px;
+
+    }
